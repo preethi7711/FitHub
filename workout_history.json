@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-02-15T06:23:15",
+    "stats": {
+      "squat": 0,
+      "pushup": 0,
+      "curl": 0,
+      "shoulder_press": 0,
+      "lunge": 0,
+      "plank_seconds": 0.0
+    },
+    "total_xp": 0
+  },
+  {
+    "timestamp": "2026-02-15T06:33:17",
+    "stats": {
+      "squat": 5.0,
+      "pushup": 0.0,
+      "curl": 0.0,
+      "shoulder_press": 0.0,
+      "lunge": 0.0,
+      "plank_seconds": 0.0
+    },
+    "total_xp": 50
+  },
+  {
+    "timestamp": "2026-02-15T07:59:32",
+    "stats": {
+      "squat": 0.0,
+      "pushup": 0.0,
+      "curl": 0.0,
+      "shoulder_press": 0.0,
+      "lunge": 0.0,
+      "plank_seconds": 0.0
+    },
+    "total_xp": 0
+  }
+]
